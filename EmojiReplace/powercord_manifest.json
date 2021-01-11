@@ -1,0 +1,8 @@
+{
+    "name": "EmojiReplace",
+    "description": "Replace discords emojis with emojis of a provider of your choice (can be changed in the .theme.css)",
+    "version": "1.0.0",
+    "author": "DevilBro",
+    "theme": "theme.css",
+    "license": "unknown"
+}
